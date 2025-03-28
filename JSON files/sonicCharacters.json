@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Sonic the Hedgehog",
+    "image": "../../imgs/sonic.png",
+    "voiceActor": "Roger Craig Smith",
+    "description": "The fastest thing alive and the hero of Mobius.",
+    "quote": "Let's do this!",
+    "power": "Super speed",
+    "category": "Hero",
+    "friends": ["Tails", "Knuckles", "Amy"],
+    "enemies": ["Dr. Eggman", "Shadow (sometimes)"],
+    "backstory": "Sonic is a free-spirited, blue hedgehog who loves adventure and hates injustice. He fights to protect the world from Dr. Eggman’s evil plans."
+  },
+  {
+    "name": "Miles 'Tails' Prower",
+    "image": "tails.png",
+    "voiceActor": "Colleen O'Shaughnessey",
+    "description": "A genius fox with two tails who loves to invent.",
+    "quote": "I've built a new plane for us, Sonic!",
+    "power": "Flying with tails",
+    "category": "Hero",
+    "friends": ["Sonic", "Knuckles", "Amy"],
+    "enemies": ["Dr. Eggman"],
+    "backstory": "Tails was often bullied for having two tails, but he found inspiration in Sonic. Over time, he became Sonic’s best friend and a skilled pilot and inventor."
+  },
+  {
+    "name": "Knuckles the Echidna",
+    "image": "knuckles.png",
+    "voiceActor": "Idris Elba",
+    "description": "Guardian of the Master Emerald with incredible strength.",
+    "quote": "I do not chuckle.",
+    "power": "Super strength",
+    "category": "Hero",
+    "friends": ["Sonic", "Tails"],
+    "enemies": ["Dr. Eggman", "Rouge (sometimes)"],
+    "backstory": "As the last of his kind, Knuckles is the protector of the Master Emerald. Though sometimes tricked by Dr. Eggman, he remains a strong and loyal ally."
+  },
+  {
+    "name": "Shadow the Hedgehog",
+    "image": "shadow.png",
+    "voiceActor": "Kirk Thornton",
+    "description": "The Ultimate Life Form, created by Dr. Gerald Robotnik.",
+    "quote": "I am the Ultimate Life Form!",
+    "power": "Chaos Control",
+    "category": "Anti-Hero",
+    "friends": ["Rouge", "E-123 Omega"],
+    "enemies": ["Sonic (rival)", "Dr. Eggman (sometimes)"],
+    "backstory": "Shadow was created in a lab as the Ultimate Life Form. After a tragic loss, he seeks purpose, sometimes working against Sonic, but also fighting for good."
+  },
+  {
+    "name": "Amy Rose",
+    "image": "amy.png",
+    "voiceActor": "Cindy Robinson",
+    "description": "A cheerful pink hedgehog who wields a powerful hammer.",
+    "quote": "Sonic, wait for me!",
+    "power": "Super strength (Piko Piko Hammer)",
+    "category": "Hero",
+    "friends": ["Sonic", "Tails", "Cream the Rabbit"],
+    "enemies": ["Dr. Eggman"],
+    "backstory": "Amy has had a huge crush on Sonic since she met him. She’s determined, optimistic, and fearless, using her hammer to fight enemies and protect her friends."
+  },
+  {
+    "name": "Dr. Eggman",
+    "image": "dr-eggman.png",
+    "voiceActor": "Mike Pollock",
+    "description": "A brilliant but evil scientist seeking world domination.",
+    "quote": "Get a load of this!",
+    "power": "Genius-level intellect",
+    "category": "Villain",
+    "friends": ["Orbot", "Cubot"],
+    "enemies": ["Sonic", "Tails", "Knuckles"],
+    "backstory": "Dr. Eggman is a mad scientist with dreams of conquering the world. He constantly builds dangerous machines to defeat Sonic, but always fails in the end."
+  }
+]
